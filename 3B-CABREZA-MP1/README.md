@@ -92,9 +92,13 @@ This semantic network allows Watson to represent complex medical relationships a
 
 
 References: 
+
 https://www.coursera.org/articles/how-does-ai-work
+
 https://www.geeksforgeeks.org/knowledge-representation-in-ai/
+
 https://wearecommunity.io/communities/healthcare/articles/5012
+
 https://healthcare-digital.com/technology-and-ai/four-ways-which-watson-transforming-healthcare-sector
 
 
