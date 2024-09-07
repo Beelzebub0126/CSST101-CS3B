@@ -79,6 +79,7 @@ To visualize this, you can create a diagram with nodes representing each element
 
 
 
+![Alt text](CSST101-CS3B/3B-CABREZA-MP1/Diagram.png)
 
 
 
