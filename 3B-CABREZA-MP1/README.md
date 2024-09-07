@@ -72,14 +72,7 @@ Example Network Relationships:
 
 
 
-Diagram of the Semantic Network
-To visualize this, you can create a diagram with nodes representing each element (patient, genetic mutation, treatment, outcome) and edges representing relationships between them.
 
-
-
-
-
-![Alt text](3B-CABREZA-MP1/Diagram.png)
 
 
 
