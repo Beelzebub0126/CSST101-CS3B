@@ -62,20 +62,6 @@ Example Network Relationships:
 •	The system links this information to treatment options, such as targeted therapy (e.g., trastuzumab), which is effective for HER2-positive patients.
 •	The system further connects treatment options to outcome nodes, showing survival rates, potential side effects, and risks.
 
-Diagram of the Semantic Network
-To visualize this, you can create a diagram with nodes representing each element (patient, genetic mutation, treatment, outcome) and edges representing relationships between them.
-
-
-
-
-
-
-
-
-
-
-
-
 How the AI System Utilizes It:
 Watson analyzes patient data and navigates this semantic network to:
 1.	Identify Relevant Information: The system reviews patient records, identifies relevant genetic mutations, and connects them to possible breast cancer types.
