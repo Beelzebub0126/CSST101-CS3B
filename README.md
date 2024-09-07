@@ -2,6 +2,7 @@
 
 Machine Problem No. 1
 1. Research and Comprehend:
+   
 Introduction to AI
 Artificial intelligence (AI) involves the theory and practice of designing computer systems that can learn from and identify patterns in data. These systems use algorithms and models to perform tasks typically associated with human intelligence, such as speech and image recognition, as well as decision-making. AI is built on techniques like machine learning and neural networks, and it also encompasses advanced concepts like deep learning and natural language processing.
 
@@ -32,6 +33,7 @@ Frames are data structures that encapsulate knowledge about objects, situations,
 Frames are used to represent stereotypical situations or objects, allowing AI systems to make inferences based on the structure and relationships within the frames. For example, a frame for a “car” might include slots for make, model, color, and owner, along with rules for filling in missing information.
 
 2. Hands-On Exploration:
+   
 Case Study Selection: IBM Watson for Healthcare
 Real-World AI Application:
 IBM Watson for Healthcare is a prominent example of a medical diagnosis system that leverages AI to assist healthcare professionals in making more accurate and timely decisions, particularly in complex fields like oncology and genomics.
